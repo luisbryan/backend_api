@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Testu
+        psr4_prefix: Testu
+        src_path: app
